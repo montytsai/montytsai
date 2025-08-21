@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Monty 👋
 
-<!--
-**montytsai/montytsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Engineer with 2 years of project leadership and technical ownership.  
+Experienced in modernizing legacy systems into **Spring Boot + Vue** architectures,  
+implementing **Spring Security** to eliminate vulnerabilities, and setting up CI/CD pipelines.  
+Currently focused on **DevOps practices** and containerized deployment.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Backend:** Java, Spring Boot, Spring Security, Spring Batch, Hibernate, MyBatis  
+- **Frontend:** Vue.js, React, JavaScript, HTML/CSS  
+- **Database:** Oracle  
+- **DevOps & Tools:** Docker, GitHub Actions, Maven, Tomcat, Checkmarx, JUnit  
+- **Architecture & Design:** RESTful API, SPA Architecture, Facade Design Pattern  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Project
+- [**AuthKit**](https://github.com/your-repo-link) – Secure, containerized authentication service with end-to-end CI/CD automation
+
+### 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)  
