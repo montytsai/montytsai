@@ -14,7 +14,7 @@ Actively exploring **Microservices architectures, DevOps practices**, and contai
 
 ### 📌 Featured Projects
 
-#### **E-Commerce Microservices Platform** [🚧 *In Progress*]
+#### **E-Commerce Microservices Platform** [🔗](https://github.com/montytsai/micro-ecommerce/blob/main/README.md) [🚧 *In Progress*]
 A high-concurrency, scalable e-commerce backend built with **Java 21 & Spring Cloud 2025**.
 * Features service discovery (Eureka), centralized config, and asynchronous order processing via **Kafka**.
 * Implemented **pessimistic locking (`@Lock`)** to prevent overselling, resolved JPA N+1 query problems, and utilized **ULID** for distributed unique IDs.
@@ -57,7 +57,7 @@ A structured, automated repository dedicated to Java-based algorithm problem-sol
 
 ### 精選專案
 
-#### **E-Commerce Microservices Platform** [🚧 *開發中*]
+#### **E-Commerce Microservices Platform** [🔗](https://github.com/montytsai/micro-ecommerce/blob/main/README.md) [🚧 *開發中*]
 基於 **Java 21 與 Spring Cloud 2025** 構建的高併發、可擴充微服務電商後台系統。
 * 整合 Eureka 服務發現、外部化配置中心，並透過 **Apache Kafka** 實現非同步訂單確認與通知。
 * 於產品服務中導入 **悲觀鎖 (`@Lock`) 防超賣** 機制、優化 JPA N+1 問題，並採用 **ULID** 作為分散式唯一識別碼。
